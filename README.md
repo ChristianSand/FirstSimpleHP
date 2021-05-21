@@ -17,8 +17,6 @@ For this CodeReview, the following criteria will be graded:
 
     (10 points) Create a GitHub Repository named: CF-CR01-YourName. Push the files into it and send the link through the learning management system (lms). See an example of a GitHub link below:
 
-https://github.com/JohnDoe/repositoryname.git
-
     (10 points) Correct usage of the HTML structure (proper order of HTML elements)
 
     (10 points) Correct usage of <img> to present images on the web page
